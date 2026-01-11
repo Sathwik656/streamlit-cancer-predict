@@ -1,5 +1,7 @@
 # Cancer Diagnosis Predictor - Streamlit
 
+## live link - https://app-cancer-predict-xavy.streamlit.app/
+
 ## Introduction
 
 Streamlit Cancer Predict is a web-based application designed to predict the likelihood of cancer using machine learning models. The app leverages Streamlit for the user interface and scikit-learn for model training and inference. It aims to provide an accessible tool for medical professionals, researchers, and students to quickly assess cancer risks from clinical data.
