@@ -1,6 +1,6 @@
 # Cancer Diagnosis Predictor - Streamlit
 
-## live link - https://app-cancer-predict-xavy.streamlit.app/
+live link - https://app-cancer-predict-xavy.streamlit.app/
 
 ## Introduction
 
